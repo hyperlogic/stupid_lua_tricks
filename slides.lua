@@ -121,7 +121,7 @@ Slide {
 			   pos = vec2.new(100, 500),
 		       align = "left" },
 		Line { text = "* 17,000 lines of C",
-			   pos = vec2.new(100, 500),
+			   pos = vec2.new(100, 600),
 		       align = "left" },
 	}
 }
@@ -860,7 +860,7 @@ Slide {
 	},
 }
 
--- Do it your self object orientation.
+-- Fin
 Slide {
 	lines = { 
 		Line { text = "Other Cool Stuff",
@@ -883,3 +883,4 @@ Slide {
 			   font = "codemedium" },
 	},
 }
+
