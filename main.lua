@@ -148,7 +148,7 @@ function love.load ()
 	slides = loadSlides()
 
 	-- for debugging look at the last slide
-	currentSlide = #slides
+	--currentSlide = #slides
 
 	metatable_demo()
 end
