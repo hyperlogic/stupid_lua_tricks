@@ -869,7 +869,7 @@ Slide {
 		Line { text = "* LOVE",
 			   pos = vec2.new(300, 250),
 		       align = "left" },
-		Line { text = "* REPL",
+		Line { text = "* CFXR",
 			   pos = vec2.new(300, 350),
 		       align = "left" },
 		Line { text = "* ROCKS",
